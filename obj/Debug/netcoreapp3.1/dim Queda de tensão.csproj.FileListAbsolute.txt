@@ -1,0 +1,13 @@
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\bin\Debug\netcoreapp3.1\dim Queda de tensão.exe
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\bin\Debug\netcoreapp3.1\dim Queda de tensão.deps.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\bin\Debug\netcoreapp3.1\dim Queda de tensão.runtimeconfig.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\bin\Debug\netcoreapp3.1\dim Queda de tensão.runtimeconfig.dev.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\bin\Debug\netcoreapp3.1\dim Queda de tensão.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\bin\Debug\netcoreapp3.1\dim Queda de tensão.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\obj\Debug\netcoreapp3.1\dim Queda de tensão.csprojAssemblyReference.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\obj\Debug\netcoreapp3.1\dim Queda de tensão.AssemblyInfoInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\obj\Debug\netcoreapp3.1\dim Queda de tensão.AssemblyInfo.cs
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\obj\Debug\netcoreapp3.1\dim Queda de tensão.csproj.CoreCompileInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\obj\Debug\netcoreapp3.1\dim Queda de tensão.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\obj\Debug\netcoreapp3.1\dim Queda de tensão.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\dim Queda de tensão\obj\Debug\netcoreapp3.1\dim Queda de tensão.genruntimeconfig.cache

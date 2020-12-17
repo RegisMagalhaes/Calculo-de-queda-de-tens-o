@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dim Queda de tensão/1.0.0": {
+        "runtime": {
+          "dim Queda de tensão.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dim Queda de tensão/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
